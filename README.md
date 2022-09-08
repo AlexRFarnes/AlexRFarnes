@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/alexrfarnes" target="blank"><img src="https://img.shields.io/twitter/follow/alexrfarnes?logo=twitter&style=for-the-badge" alt="alexrfarnes" /></a> </p>
 
-- 🔭 I’m currently working on **my Portfolio**
+- 🔭 I’m currently working on [my Portfolio](https://www.alexrfarnes.dev/) (placeholder)
 
 - 🌱 I’m currently learning **MERN stack**
 
