@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex R. Farnes</h1>
-<h3 align="center">A self-taught and curious frontend developer from Guatemala currently residing in Taiwan</h3>
+<h3 align="center">A self-taught and curious fullstack developer from Guatemala currently residing in Taiwan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexrfarnes&label=Profile%20views&color=0e75b6&style=flat" alt="alexrfarnes" /> </p>
 
