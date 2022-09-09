@@ -1,7 +1,7 @@
 <p align="center">
-<img align="center" src="https://user-images.githubusercontent.com/57517804/189016567-bee345fa-b313-4fc4-a01a-525ddf8b74a3.gif" alt="pixel heart animation">
-<img align="center" src="https://user-images.githubusercontent.com/57517804/189016567-bee345fa-b313-4fc4-a01a-525ddf8b74a3.gif" alt="pixel heart animation">
-<img align="center" src="https://user-images.githubusercontent.com/57517804/189016567-bee345fa-b313-4fc4-a01a-525ddf8b74a3.gif" alt="pixel heart animation">
+<img align="center" src="https://user-images.githubusercontent.com/57517804/189016567-bee345fa-b313-4fc4-a01a-525ddf8b74a3.gif" alt="pixel heart animation" height="50" width="50">
+<img align="center" src="https://user-images.githubusercontent.com/57517804/189016567-bee345fa-b313-4fc4-a01a-525ddf8b74a3.gif" alt="pixel heart animation" height="50" width="50">
+<img align="center" src="https://user-images.githubusercontent.com/57517804/189016567-bee345fa-b313-4fc4-a01a-525ddf8b74a3.gif" alt="pixel heart animation" height="50" width="50">
 </p>
 <h1 align="center">Hi 👋, I'm Alex R. Farnes</h1>
 <h3 align="center">A self-taught and curious fullstack developer from Guatemala currently residing in Taiwan</h3>
