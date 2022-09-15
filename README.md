@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **alexrfarnes@gmail.com**
 
-- ⚡ Fun fact **I ❤️ Pixel Art (currently learning it in my free time)**
+- ⚡ Some additional info about me **Gym enthusiast, love reading mystery, sci-fi, and fantasy novels, casual gamer and artist wannabe (trying to improve in Blender and learning pixel art)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
