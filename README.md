@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **alexrfarnes@gmail.com**
 
-- ⚡ Some additional info about me **<ul><li>Gym enthusiast</li> <li>Love reading mystery, sci-fi, and fantasy novels</li> <li>Casual gamer</li> <li>Curious by nature, exploring different hobbies at the same time - Blender, Pixel Art, Drawing</li></ul>**
+- ⚡ Some additional info about me **<ul><li>Gym enthusiast</li> <li>Love reading mystery, sci-fi, and fantasy novels</li> <li>Casual gamer</li></ul>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
