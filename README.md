@@ -4,15 +4,11 @@
 <img align="center" src="https://user-images.githubusercontent.com/57517804/189016567-bee345fa-b313-4fc4-a01a-525ddf8b74a3.gif" alt="pixel heart animation" height="50" width="50">
 </p>
 <h1 align="center">Hi 👋, I'm Alex R. Farnes</h1>
-<h3 align="center">A self-taught and curious Frontend developer from Guatemala currently residing in Taiwan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexrfarnes&label=Profile%20views&color=0e75b6&style=flat" alt="alexrfarnes" /> </p>
 
 <p align="left"> <a href="https://twitter.com/alexrfarnes" target="blank"><img src="https://img.shields.io/twitter/follow/alexrfarnes?logo=twitter&style=for-the-badge" alt="alexrfarnes" /></a> </p>
 
-- 🔭 I’m currently working on [my Portfolio](https://www.alexrfarnes.dev/) (WIP)
-
-- 🌱 I’m currently learning **MERN stack**
 
 - 💬 Ask me about **JavaScript, React, CSS**
 
@@ -22,7 +18,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/alexrfarnes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alexrfarnes" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alexrfarnes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexrfarnes" height="30" width="40" /></a>
 </p>
 
