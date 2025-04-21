@@ -10,9 +10,7 @@
 <p align="left"> <a href="https://twitter.com/alexrfarnes" target="blank"><img src="https://img.shields.io/twitter/follow/alexrfarnes?logo=twitter&style=for-the-badge" alt="alexrfarnes" /></a> </p>
 
 
-- 💬 Ask me about **CSS, JavaScript, React**
-
-- 📫 How to reach me **alexrfarnes@gmail.com**
+- 💬 Ask me about **HTML, CSS, JavaScript, and Python**
 
 - ⚡ Some additional info about me **<ul><li>Gym enthusiast</li> <li>Love reading mystery, sci-fi, and fantasy novels</li> <li>Casual gamer</li></ul>**
 
